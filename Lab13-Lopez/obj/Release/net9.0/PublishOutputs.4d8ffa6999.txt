@@ -1,0 +1,13 @@
+C:\Users\USER\RiderProjects\Lab13-Lopez\Lab13-Lopez\bin\Release\net9.0\publish\Lab13-Lopez.exe
+C:\Users\USER\RiderProjects\Lab13-Lopez\Lab13-Lopez\bin\Release\net9.0\publish\Lab13-Lopez.dll
+C:\Users\USER\RiderProjects\Lab13-Lopez\Lab13-Lopez\bin\Release\net9.0\publish\Lab13-Lopez.deps.json
+C:\Users\USER\RiderProjects\Lab13-Lopez\Lab13-Lopez\bin\Release\net9.0\publish\Lab13-Lopez.runtimeconfig.json
+C:\Users\USER\RiderProjects\Lab13-Lopez\Lab13-Lopez\bin\Release\net9.0\publish\Lab13-Lopez.pdb
+C:\Users\USER\RiderProjects\Lab13-Lopez\Lab13-Lopez\bin\Release\net9.0\publish\ClosedXML.dll
+C:\Users\USER\RiderProjects\Lab13-Lopez\Lab13-Lopez\bin\Release\net9.0\publish\ClosedXML.Parser.dll
+C:\Users\USER\RiderProjects\Lab13-Lopez\Lab13-Lopez\bin\Release\net9.0\publish\DocumentFormat.OpenXml.dll
+C:\Users\USER\RiderProjects\Lab13-Lopez\Lab13-Lopez\bin\Release\net9.0\publish\DocumentFormat.OpenXml.Framework.dll
+C:\Users\USER\RiderProjects\Lab13-Lopez\Lab13-Lopez\bin\Release\net9.0\publish\ExcelNumberFormat.dll
+C:\Users\USER\RiderProjects\Lab13-Lopez\Lab13-Lopez\bin\Release\net9.0\publish\RBush.dll
+C:\Users\USER\RiderProjects\Lab13-Lopez\Lab13-Lopez\bin\Release\net9.0\publish\SixLabors.Fonts.dll
+C:\Users\USER\RiderProjects\Lab13-Lopez\Lab13-Lopez\bin\Release\net9.0\publish\System.IO.Packaging.dll
